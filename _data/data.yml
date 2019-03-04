@@ -32,7 +32,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom:# 
+       
        
 
     interests:
@@ -42,7 +42,7 @@ sidebar:
       - item: Football
         link:
 
-      - item:#
+     
 
 career-profile:
     title: Career Profile
@@ -66,8 +66,8 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          C and C++
-          # Bullet point
+          
+          - Bullet point
 
     - degree: 
       university: 
