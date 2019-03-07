@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: andreasg.7@hotmail.com
     phone: 69 47790823
-    website:  #do not add http://
+    website: github.com/andreasgeorgiou/Resume #do not add http://
     linkedin: 
     github: andreasgeorgiou 
     gitlab:
@@ -47,99 +47,76 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I studying computer science in Ionian University and i am in my third year in department of informatics.
+      I studying computer science in Ionian University and i am in my third year. 
 
 education:
-    - degree: BSc in Computer Science
+    - degree: Undergraduate in Computer Science
       university: Ionian University
       time: October 2016 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου δημιουργήθηκε στο πλαίσιο 
+        του ΕΠΕΑΕΚ με το νόμο υπ’ αριθ. 3255 /2004 και λειτουργεί από το ακαδημαϊκό έτος 2004-05.
+        Το Τμήμα δέχεται κάθε χρόνο 100 φοιτητές/τριες από το 2ο και 4ο επιστημονικό πεδίο
+        και έχει ως αντικείμενο τόσο τη θεωρητική, όσο και την εφαρμοσμένη Πληροφορική.
+
+        Η έδρα του Τμήματος Πληροφορικής βρίσκεται στην πόλη της Κέρκυρας. 
+        Η ταυτότητα του Τμήματος μπορεί να αναζητηθεί στη προσπάθεια του ελληνικού κράτους
+        για την ίδρυση νέων τμημάτων στην ελληνική περιφέρεια με στόχο την προώθηση επιστημών
+        ή επιστημονικών μεθόδων και αναζητήσεων που δεν καλύπτονται από προϋπάρχοντα τμήματα ΑΕΙ.
 
           
-          - Bullet point
+          
 
     - degree: 
       university: 
       time: 
       details: |
         
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+#experiences:
+    
 
-          - Bullet point
-          - Bullet point
+ #   - role: Senior Software Engineer
+ #     time: 2014 - 2015
+ #     company: Google, London
+ #     details: |
+ #       Describe your role here lorem ipsum dolor sit amet, consectetuer
+ #       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+ #       Cum sociis natoque penatibus et magnis dis parturient montes,
+ #       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+ #       pellentesque eu, pretium quis, sem.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+ #         - Bullet point
+ #         - Bullet point
 
-          - Bullet point
-          - Bullet point
+ #     time: 2012 - 2014
+ #    company: Amazon, London
+ #     details: |
+ #      Describe your role here lorem ipsum dolor sit amet, consectetuer
+ #       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+ #       Cum sociis natoque penatibus et magnis dis parturient montes,
+ #       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+ #       pellentesque eu, pretium quis, sem.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+         # - Bullet point
+         # - Bullet point
 
-          - Bullet point
-          - Bullet point
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+ 
 publications:
     title: Publications
     intro: |
