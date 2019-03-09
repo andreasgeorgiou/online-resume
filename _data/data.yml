@@ -125,21 +125,7 @@ education:
 #      - title: A syntax directed compiler for Algol 60
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
-skills:
-   title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 70%
-
-      - name: Javascript & jQuery
-        level: 65%
-
-      - name: HTML5 & CSS
-        level: 60%
-
-      - name: c & c++
-        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
