@@ -37,7 +37,7 @@ sidebar:
       - item: Gym
         link:
 
-      - item: Computer / Gamming
+      - item: PC games
         link:
 
      
@@ -60,11 +60,11 @@ education:
         
          Throughout my education i have developed basic programming skills in:
          
+        - C and C++ 
         - Java and Javascript
         - Python 
-        - C and C++
-        - Phaser Game Engine(Html and JS)
-        - CTF Challenges
+        
+        
 
      
 experiences:
