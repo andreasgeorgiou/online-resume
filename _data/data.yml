@@ -34,10 +34,10 @@ sidebar:
         level: Good-Enough
 
     interests:
-      - item: Gym
+      - item: Gym / PC games
         link:
 
-      - item: PC games
+      - item: 
         link:
 
      
@@ -72,15 +72,12 @@ education:
 experiences:
     
 
- #   - role: Senior Software Engineer
- #     time: 2014 - 2015
- #     company: Google, London
- #     details: |
- #       Describe your role here lorem ipsum dolor sit amet, consectetuer
- #       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
- #       Cum sociis natoque penatibus et magnis dis parturient montes,
- #       nascetur ridiculus mus. Donec quam felis, ultricies nec,
- #       pellentesque eu, pretium quis, sem.
+    - role: Οffice manager
+      time: Summer 2018
+      company: Esso Episkopi
+      details: |
+        Esso is petrol station in Cyprus. I worked there for three months. 
+        I was office manager. Οne of my tasks was to make inventory of products.
 
  #         - Bullet point
  #         - Bullet point
