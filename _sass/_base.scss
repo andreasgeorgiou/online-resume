@@ -1,3 +1,8 @@
+@font-face{
+	font-family: 'Latin Modern Sans';
+	src: local('Latin Modern Sans'), url(
+	'./font/lmsans-regular-webfont.ttf') format('truetype');
+}
 /* ======= Base ======= */
 body {
     font-family: 'Roboto', sans-serif;

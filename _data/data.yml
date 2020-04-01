@@ -2,111 +2,148 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
+# Settings
+mainfont: Latin Modern Sans
+fontsize: 10pt
+lang: en-us
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+address: 
+- Miltiadi 
+- 49100 Kerkyra
+- Greece
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: false # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Andreas Georgiou
-    tagline: Department of Informatics Ionian University-Student
+    tagline: Department of Informatics Undergraduate Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: andreasg.7@hotmail.com
-    phone: 69 47790823
-    website: fb.com/96andreas #do not add http://
-    #linkedin: 
-    github: andreasgeorgiou 
+    email: Andreasg.7@hotmail.com
+    phone: 6647790823
+    website: andreasgeorgiou.github.io/onlinecv #do not add http://
+    # linkedin: alandoe
+    github: andreasgeorgiou
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: 'p16kont'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     instagram: _andreas_georgiou
 
     languages:
-      - idiom: Greek    
+      - idiom: Greek
         level: Native
 
       - idiom: English
-        level: Good-Enough
+        level: Good Enough
+
+      #- idiom: Spanish
+       # level: Professional
 
     interests:
-      - item: Gym / PC games
+      - item: Gym
         link:
 
-      - item: 
+      - item: Gaming
         link:
 
-     
-
+      #- item: Cooking
+       # link:
+         
 career-profile:
-    title: About me
+    title: ABOUT ME
     summary: |
-      I am studying computer science in Ionian University. Ι like team work.
-      I have developed basic skills in some programming languages.
-      
+     I am a third-year Department of Informatics Undergraduate Student at Ionian University. I have developed basic skills in some programming languages that I learn throughout my semester and also by myself in my spare time.
+     Another key point that I want to mention is that I am hardworking and try very hard to get the best result as I also happen to be a perfectionist. I am now looking to further develop my skills in my field and particularly in cybersecurity because it is an interesting subject that is extremely appealing to me. 
 
+
+        - Hardworking
+        - Perfectionist
+        - Passionate
+        - With willingness to learn
 education:
     - degree: BSc in Computer Science
       university: Ionian University
-      time: October 2016 - Present
+      time: 2016 - Present 
       details: |
-        The headquarters of the Department of Informatics is located in the city of Corfu.
-        The identity of the Department can be sought in the efforts of the Greek state
-        for the establishment of new departments in the Greek region aiming at promoting the sciences
-        or scientific methods and queries that are not covered by pre-existing departments.
-        
-         
-        Programming languages ​​that I know:
-         
-        <p> >C and C++</p>  
-        <p> >Java and Javascript</p> 
-        <p> >Python</p>  
-        <p> >Html and PhP</p> 
+        I enjoy University a great deal as there is always a new subject to study and get familiar with which is exciting.
+        The subjects vary in term of hours that are needed to be able to understand the concept behind them and to successfully finish the assignments, which makes particular ones somewhat a challenge, but that challenge is always welcome!
+
+        Throughout my education i have developed basic programming skills in:
+
+        - Html and Javascript
+        - Python 
+        - C and C++
+        - Java
+        - PHP
         
 
-     
+    #- degree: BSc in Applied Mathematics
+     # university: Bristol University
+      #time: 2007 - 2011
+     # details: |
+      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+       # pretium quis, sem.
+
+        #  - Bullet point
+         # - Bullet point
+
 experiences:
+ #   - role: Lead Developer
+  #    time: 2015 - Present
+   #   company: Startup Hubs, San Francisco
+    #  details: |
+     #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+       # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #  error sit voluptatem accusantium doloremque laudantium, totam rem
+       # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
+#          - Bullet point
+ #         - Bullet point
+  #  - role: Senior Software Engineer
+   #   time: 2014 - 2015
+    #  company: Google, London
+    #  details: |
+     #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem.
+
+        #  - Bullet point
+         # - Bullet point
+
     
-
-    - role: Οffice manager
-      time: Summer 2018
-      company: Esso Episkopi
-      details: |
-        Esso is petrol station in Cyprus. I worked there for three months. 
-        I was office manager. Οne of my tasks was to make inventory of products.
-
- #         - Bullet point
- #         - Bullet point
-
- #     time: 2012 - 2014
- #    company: Amazon, London
- #     details: |
- #      Describe your role here lorem ipsum dolor sit amet, consectetuer
- #       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
- #       Cum sociis natoque penatibus et magnis dis parturient montes,
- #       nascetur ridiculus mus. Donec quam felis, ultricies nec,
- #       pellentesque eu, pretium quis, sem.
-
-         # - Bullet point
-         # - Bullet point
-
 projects:
     title: Seminars
     intro: >
       Below are some seminars I attended, including the download links for the certificates.
+
     assignments:
     
       - title: Grow Greek Tourism Online
         link: "assets/certificates/growgreek.pdf"
         tagline: 
 
-    #  - title: "Gryphone Lab: An open-access smartphone testbed"
-    #    link: "assets/certificates/GryPhone.pdf"
-    #   tagline: 
+    #  - title: 
+    #    link: 
+    #    tagline: 
+
+
+    #  - title:
+    #    link: 
+    #    tagline: 
 
    #   - title: Atom
     #    link: "#"
@@ -116,25 +153,29 @@ projects:
        # link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
- 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
+skills:
+   title: Skills &amp; Proficiency
 
-#    papers:
-#      - title: The Art of Computer Programming
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968#
+   toolset:
+     - name: Python
+       level: 70%
 
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     - name: Javascript
+       level: 40%
 
-#      - title: A syntax directed compiler for Algol 60
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+     - name: C#
+       level: 75%
+
+     - name: HTML5 & CSS
+       level: 55%
+       
+     - name: C &amp; C++
+       level: 68%
+       
+     - name: Linux 
+       level: 63%
+     
+     - name: PHP
+       level: 45%
 
 ---
