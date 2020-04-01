@@ -28,7 +28,7 @@ sidebar:
     github: andreasgeorgiou
     gitlab:
     bitbucket:
-    twitter: 'p16kont'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -168,7 +168,7 @@ skills:
 
      - name: HTML5 & CSS
        level: 55%
-       
+
      - name: C &amp; C++
        level: 68%
        
