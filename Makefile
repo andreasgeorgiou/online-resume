@@ -23,7 +23,7 @@ pdf:
 	"$(INPUTDIR)"/*.yml \
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
-	--pdf-engine=xelatex
+	--latex-engine=xelatex
 
 
 .PHONY: help pdf 
