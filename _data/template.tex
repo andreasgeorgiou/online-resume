@@ -124,7 +124,19 @@ $for(education)$
 \emph{$education.university$}$if(education.city)$ $education.city$$endif$\\[.2cm] $if(education.details)$\subsection*{Details}$education.details$$endif$
 $endfor$
 $endif$
+
 \newpage
+$if(experiences)$
+\section*{Experiences}
+\noindent
+$for(experiences)$
+\note{$experiences.time$}\textbf{$experiences.subject$}$if(experiences.role)$$experiences.role$$endif$\\
+\emph{$experiences.company$}$if(experiences.city)$ $experiences.city$$endif$\\[.2cm] $if(experiences.details)$\subsection*{Details}$experiences.details$$endif$
+$endfor$
+$endif$
+
+\vspace{25pt}
+
 $if(sidebar.languages)$
 \section*{Languages}
 $for(sidebar.languages)$
