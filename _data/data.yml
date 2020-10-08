@@ -1,4 +1,3 @@
----
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -22,11 +21,10 @@ sidebar:
     # Sidebar links
     email: andreasg.7@hotmail.com
     phone: 0357 99240439
-<<<<<<< HEAD
+
     #website: andreasgeorgiou.github.io/onlinecv/ #do not add http://
-=======
     website: facebook.com/96andreas/ #do not add http://
->>>>>>> cdbcf970c3d4372d674c6aa6e955985ac56c5188
+
     # linkedin: alandoe
     github: andreasgeorgiou
     gitlab:
@@ -45,27 +43,19 @@ sidebar:
       - idiom: English
         level: Good 
 
-      #- idiom: Spanish
-       # level: Professional
-
     interests:
       - item: Gym
         link:
 
       - item: Gaming
         link:
-
-      #- item: Cooking
-       # link:
-         
+  
 career-profile:
     title: ABOUT ME
     summary: |
      I studied at the IT department of the Ionian University. I am 24 years old from
      Limassol, Cyprus. I have developed basic skills in some programming languages that I learn throughout my semester and also by myself in my spare time.
      Another key point that I want to mention is that I am hardworking and try very hard to get the best result as I also happen to be a perfectionist. I am now looking to further develop my skills in my field and particularly in programming because it is an interesting subject that is extremely appealing to me. 
-
-
         - Hardworking
         - Perfectionist
         - Passionate
@@ -77,29 +67,13 @@ education:
       details: |
         I enjoy University a great deal as there is always a new subject to study and get familiar with which is exciting.
         The subjects vary in term of hours that are needed to be able to understand the concept behind them and to successfully finish the assignments, which makes particular ones somewhat a challenge, but that challenge is always welcome!
-
         Throughout my education i have developed basic programming skills in:
-
         - Unix commands
         - Python
         - Html and Javascript
         - C and C++
         - Java
         - PHP
-        
-
-    #- degree: BSc in Applied Mathematics
-     # university: Bristol University
-      #time: 2007 - 2011
-     # details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-       # pretium quis, sem.
-
-        #  - Bullet point
-         # - Bullet point
 
 experiences:
     - role: Οffice and Ιnventory Μanager
@@ -107,27 +81,12 @@ experiences:
       company: Esso, Episkopi
       details: |
            The Esso Episkopi is a gas station. I was responsible for fuel payments and for product inventory for the store.
-#          - Bullet point
- #         - Bullet point
-  #  - role: Senior Software Engineer
-   #   time: 2014 - 2015
-    #  company: Google, London
-    #  details: |
-     #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       # Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       # pellentesque eu, pretium quis, sem.
-
-        #  - Bullet point
-         # - Bullet point
 
     
 projects:
     title: Seminars and my dissertation 
     intro: >
       Below are some seminars and the presentation of the web application that i implemented in my dissertation. I attached their links.
-
     assignments:
     
       - title: Grow Greek Tourism Online
@@ -137,14 +96,6 @@ projects:
       - title: Presentation Web Application
         link: "assets/certificates/WebApp.pdf"
         tagline: 
-
-   #   - title: Atom
-    #    link: "#"
-     #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-       # link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
    title: Skills &amp; Proficiency
