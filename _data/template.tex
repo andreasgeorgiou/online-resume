@@ -131,11 +131,14 @@ $if(experiences)$
 \noindent
 $for(experiences)$
 \note{$experiences.time$}\textbf{$experiences.subject$}$if(experiences.role)$$experiences.role$$endif$\\
-\emph{$experiences.company$}$if(experiences.city)$ $experiences.city$$endif$\\[.2cm] $if(experiences.details)$\subsection*{Details}$experiences.details$$endif$
+\emph{$experiences.company$}$if(experiences.city)$ $experiences.city$$endif$\\ $if(experiences.details)$\subsection*{Details}$experiences.details$$endif$
+\newline
+\newline
+\newline
 $endfor$
 $endif$
 
-\vspace{25pt}
+
 
 $if(sidebar.languages)$
 \section*{Languages}
@@ -145,7 +148,10 @@ $endfor$
 $endif$
 
 $if(projects.assignments)$
-\section*{Seminars Attended}
+\section*{Seminars \& Projects} 
+{\scriptsize Go to onlineCV to view these: \href{http://$sidebar.website$}{$sidebar.website$}\\}
+\newline
+\newline
 $for(projects.assignments)$
 $projects.assignments.title$\\~\\
 $endfor$

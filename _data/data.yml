@@ -22,11 +22,11 @@ sidebar:
     # Sidebar links
     email: andreasg.7@hotmail.com
     phone: 0357 99240439
-<<<<<<< HEAD
+
     #website: andreasgeorgiou.github.io/onlinecv/ #do not add http://
-=======
-    website: facebook.com/96andreas/ #do not add http://
->>>>>>> cdbcf970c3d4372d674c6aa6e955985ac56c5188
+
+    website: andreasgeorgiou.github.io/onlinecv/ #do not add http://
+
     # linkedin: alandoe
     github: andreasgeorgiou
     gitlab:
@@ -61,9 +61,11 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-     I studied at the IT department of the Ionian University. I am 24 years old from
-     Limassol, Cyprus. I have developed basic skills in some programming languages that I learn throughout my semester and also by myself in my spare time.
-     Another key point that I want to mention is that I am hardworking and try very hard to get the best result as I also happen to be a perfectionist. I am now looking to further develop my skills in my field and particularly in programming because it is an interesting subject that is extremely appealing to me. 
+     I am a graduate of the computer Science. I am 24 years old. I have developed 
+     basic skills in some programming languages that I learn throughout my semester and also by myself 
+     in my spare time. Another key point that I want to mention is that I am hardworking and try very much 
+     to get the best result. I am very honest and I can work in a team. 
+     I am now looking to further develop my skills in my field.
 
 
         - Hardworking
@@ -102,18 +104,18 @@ education:
          # - Bullet point
 
 experiences:
-    - role: Οffice and Ιnventory Μanager
+    - role: Storekeeper
       time: Summer 2018
-      company: Esso, Episkopi
+      company: Papantoniou Supermarket, Ypsonas
       details: |
-           The Esso Episkopi is a gas station. I was responsible for fuel payments and for product inventory for the store.
+           I kept the products of the store sorted and clean.
 #          - Bullet point
  #         - Bullet point
-  #  - role: Senior Software Engineer
-   #   time: 2014 - 2015
-    #  company: Google, London
-    #  details: |
-     #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+    - role: Οffice and Ιnventory Μanager
+      time: Summer 2019
+      company: Esso, Episkopi
+      details: |
+        The Esso Episkopi is a gas station. I was responsible for fuel payments and for product inventory for the store.
       #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
        # Cum sociis natoque penatibus et magnis dis parturient montes,
         #nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -124,23 +126,23 @@ experiences:
 
     
 projects:
-    title: Seminars and my dissertation 
+    title: Seminars and my projects
     intro: >
-      Below are some seminars and the presentation of the web application that i implemented in my dissertation. I attached their links.
+      Below are some seminars and some projects that i implemented.  I attached their links.
 
     assignments:
     
       - title: Grow Greek Tourism Online
         link: "assets/certificates/growgreek.pdf"
-        tagline:
+        tagline: seminar
 
-      - title: Presentation Web Application
-        link: "assets/certificates/WebApp.pdf"
-        tagline: 
+      - title: Web Application
+        link: "assets/certificates/WebApplication.pdf"
+        tagline: project
 
-   #   - title: Atom
-    #    link: "#"
-     #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Android App
+        link: "assets/certificates/AndroidApplication.pdf"
+        tagline: project
 
       #- title: Delta
        # link: "#"
