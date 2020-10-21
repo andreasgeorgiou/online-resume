@@ -149,11 +149,9 @@ $endif$
 
 $if(projects.assignments)$
 \section*{Seminars \& Projects} 
-{\footnotesize (For their links go to online CV): \href{http://$sidebar.website$}{$sidebar.website$}\\}
-\newline
-\newline
 $for(projects.assignments)$
-$projects.assignments.title$\\~\\
+\href{http://andreasgeorgiou.github.io/onlinecv/$projects.assignments.link$}{$projects.assignments.title$}\\~\\
+ 
 $endfor$
 $endif$
 
