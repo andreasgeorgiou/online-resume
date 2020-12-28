@@ -75,7 +75,8 @@ education:
       university: Lyceum of Kolossi
       time: 2011 - 2014 
       details: |
-        I graduated from the Kolossi high school with a grade of 17/20.
+        I graduated from the Kolossi high school with a grade of 
+        **17/20.**
 
         Enhanced courses:
 
@@ -102,7 +103,9 @@ education:
       details: |
         During my studies I learned many things. I learned to solve problems 
         and to withstand all the pressures I encountered. Each time in my university assigments I uploaded 
-        my projects before the deadline. I graduated from Ionian University with a grade of 7.44/10.
+        my projects before the deadline. I graduated from Ionian University with a grade of 
+        **7.44/10.**
+        
 
 
         The University has provided me with the opportunity to develop multiple basic programming skills in:
