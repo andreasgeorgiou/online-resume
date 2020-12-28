@@ -120,12 +120,13 @@ $if(education)$
 \section*{Education}
 \noindent
 $for(education)$
+
 \note{$education.time$}\textbf{$education.subject$}$if(education.degree)$$education.degree$$endif$\\
-\emph{$education.university$}$if(education.city)$ $education.city$$endif$\\[.2cm] $if(education.details)$\subsection*{Details}$education.details$$endif$
+\emph{$education.university$}$if(education.city)$ $education.city$$endif$\\[.1cm] $if(education.details)$\subsection*{Details}$education.details$$endif$
 $endfor$
 $endif$
 
-\newpage
+
 $if(experiences)$
 \section*{Experiences}
 \noindent
@@ -133,8 +134,8 @@ $for(experiences)$
 \note{$experiences.time$}\textbf{$experiences.subject$}$if(experiences.role)$$experiences.role$$endif$\\
 \emph{$experiences.company$}$if(experiences.city)$ $experiences.city$$endif$\\ $if(experiences.details)$\subsection*{Details}$experiences.details$$endif$
 \newline
-\newline
-\newline
+
+
 $endfor$
 $endif$
 
