@@ -61,32 +61,59 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-     A motivated, adaptable and responsible Computing graduate seeking an IT position 
-     which will utilise the professional and technical skills. I have developed basic skills in many programming
-     languages that I learn throughout my semester and also by myself in my spare time. 
+     I am graduate of the IT department of the Ionian University. I am looking for an IT position 
+     where I will use my technical skills. I have developed basic skills in many programming
+     languages that I learn in my semester and also by myself in my spare time. 
      Another key point that I want to mention is that I am hardworking and try very much to get the best result.
      I am very honest and I can work in a team. 
 
         - Hardworking
         - Perfectionist
-        - Passionate
         - With willingness to learn
 education:
+    - degree: Higher Secondary Education
+      university: Lyceum of Kolossi
+      time: 2011 - 2014 
+      details: |
+        I graduated from the Kolossi high school with a grade of 17/20.
+
+        Enhanced courses:
+
+        - Mathematics
+        - Physics
+        - Computer Science
+        - Gymnastics
+        
+
+
+    - degree: Army Service
+      university: Cyprus National Guard
+      time: 2014 - 2016 
+      details: |
+        During the year 2014 to 2016 I fulfill my military duties in the Special forces of Cyprus.
+        Being a Special forces soldier has taught me the meaning of discipline and responsibility, as well as alertness
+        and composure in times of emergency.
+
+        
+
     - degree: BSc in Computer Science
       university: Ionian University
       time: 2016 - 2020 
       details: |
-        I enjoy University a great deal as there is always a new subject to study and get familiar with which is exciting.
-        The subjects vary in term of hours that are needed to be able to understand the concept behind them and to successfully finish the assignments, which makes particular ones somewhat a challenge, but that challenge is always welcome!
+        During my studies I learned many things. I learned to solve problems 
+        and to withstand all the pressures I encountered. Each time in my university assigments I uploaded 
+        my projects before the deadline. I graduated from Ionian University with a grade of 7.44/10.
 
-        Throughout my education i have developed basic programming skills in:
 
-        - Unix commands
+        The University has provided me with the opportunity to develop multiple basic programming skills in:
+
+        - Unix Commands
+        - C & C++
+        - Java and Javascript
         - Python
-        - Html and Javascript
-        - C and C++
-        - Java
+        - HTML & CSS
         - PHP
+
         
 
     #- degree: BSc in Applied Mathematics
@@ -122,6 +149,11 @@ experiences:
 
         #  - Bullet point
          # - Bullet point
+    - role: Ventilation installations
+      time: 2020 until today
+      company: Avax & Terna - Casino City of Dreams
+      details: |
+           In the construction of the casino in Limassol we install ventilation and air conditioning systems.
 
     
 projects:
@@ -152,21 +184,21 @@ skills:
 
    toolset:
      - name: Linux 
-       level: 90%
-
-     - name: Python
        level: 85%
 
-     - name: HTML & CSS
+     - name: Python
        level: 80%
+
+     - name: HTML & CSS
+       level: 75%
 
      - name: Javascript
-       level: 80%
+       level: 75%
 
      - name: C &amp; C++
-       level: 75%
+       level: 70%
        
      - name: PHP
-       level: 65%
+       level: 60%
 
 ---
