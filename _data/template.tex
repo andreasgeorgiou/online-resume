@@ -122,10 +122,11 @@ $if(education)$
 $for(education)$
 
 \textbf{\note{$education.time$}}\textbf{$education.subject$}\textbf{$if(education.degree)$$education.degree$$endif$\\}
-\emph{$education.university$}$if(education.city)$ $education.city$$endif$\\[.1cm] $if(education.details)$\subsection*{Details}$education.details$$endif$
+\emph{$education.university$}$if(education.city)$ $education.city$$endif$\\[.3cm] $if(education.details)$\subsection*{Details}$education.details$$endif$
 $endfor$
 $endif$
 
+\vspace{25pt}
 
 $if(experiences)$
 \section*{Experiences}
