@@ -155,8 +155,16 @@ experiences:
 
         #  - Bullet point
          # - Bullet point
+    - role: Ventilation installations
+      time: Summer 2020 until January 2021 
+
+      company: Avax & Terna - Casino City of Dreams
+      details: |
+           In the construction of the Casino in Limassol we install ventilation and air condition systems.
+
     - role: Technical Support
-      time: March 2021
+      time: March - April 2021
+
       company: LogiSoft
       details: |
            Responsible for assisting users on the time attendance application.
