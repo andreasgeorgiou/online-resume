@@ -16,16 +16,16 @@ sidebar:
 
     # Profile information
     name: Andreas Georgiou
-    tagline: Department of Informatics Undergraduate Student
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: andreasg.7@hotmail.com
-    phone: 0357 99240439
+    phone: +357 99240439
 
     #website: andreasgeorgiou.github.io/onlinecv/ #do not add http://
 
-    website: andreasgeorgiou.github.io/onlinecv/ #do not add http://
+    #website: andreasgeorgiou #do not add http://
 
     # linkedin: alandoe
     github: andreasgeorgiou
@@ -35,7 +35,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    instagram: _andreas_georgiou
+    instagram: an.dreasg
+
 
 
     languages:
@@ -43,7 +44,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Good 
+        level: Very Good 
 
       #- idiom: Spanish
        # level: Professional
@@ -55,13 +56,13 @@ sidebar:
       - item: Gaming
         link:
 
-      #- item: Cooking
-       # link:
+      - item: Football
+        link:
          
 career-profile:
     title: ABOUT ME
     summary: |
-     I am graduate of the IT department of the Ionian University. I am looking for an IT position 
+     Hi, my name is Andreas. I am graduate of the IT department of the Ionian University. I am looking for an IT position 
      where I will use my technical skills. I have developed basic skills in many programming
      languages that I learn in my semester and also by myself in my spare time. 
      Another key point that I want to mention is that I am hardworking and try very much to get the best result.
@@ -71,6 +72,34 @@ career-profile:
         - Perfectionist
         - With willingness to learn
 education:
+    - degree: BSc in Computer Science
+      university: Ionian University
+      time: 2016 - 2020 
+      details: |
+        I completed my studies at Ionian University in 2020 with a grade of **7.8/10**.During my studies I learned to solve problems 
+        and to withstand all the pressures I encountered.
+
+        The University has provided me with the opportunity to develop multiple basic programming skills in:
+
+        - Unix Commands
+        - C & C++
+        - Java and Javascript
+        - Python
+        - HTML & CSS
+        - PHP
+        - SQL
+
+    - degree: Army Service
+      university: Cyprus Special Forces
+      time: 2014 - 2016 
+      details: |
+        During the year 2014 to 2016 I fulfill my military duties in the Special forces of Cyprus (LOK).
+        Being a Special forces soldier has taught me the meaning of discipline and responsibility, as well as alertness
+        and composure in times of emergency.
+
+        - Training in weapons
+        - Mental endurance            
+
     - degree: Higher Secondary Education
       university: Lyceum of Kolossi
       time: 2011 - 2014 
@@ -85,42 +114,7 @@ education:
         - Computer Science
         - Gymnastics
         
-
-
-    - degree: Army Service
-      university: Cyprus National Guard
-      time: 2014 - 2016 
-      details: |
-        During the year 2014 to 2016 I fulfill my military duties in the Special forces of Cyprus.
-        Being a Special forces soldier has taught me the meaning of discipline and responsibility, as well as alertness
-        and composure in times of emergency.
-
-        - Training in weapons
-        - Mental endurance
-
-        
-
-    - degree: BSc in Computer Science
-      university: Ionian University
-      time: 2016 - 2020 
-      details: |
-        During my studies I learned many things. I learned to solve problems 
-        and to withstand all the pressures I encountered. Each time in my university assigments I uploaded 
-        my projects before the deadline. I graduated from Ionian University with a grade of 
-        **7.44/10.**
-        
-
-
-        The University has provided me with the opportunity to develop multiple basic programming skills in:
-
-        - Unix Commands
-        - C & C++
-        - Java and Javascript
-        - Python
-        - HTML & CSS
-        - PHP
-
-        
+   
 
     #- degree: BSc in Applied Mathematics
      # university: Bristol University
@@ -136,18 +130,25 @@ education:
          # - Bullet point
 
 experiences:
-    - role: Storekeeper
-      time: Summer 2018
-      company: Papantoniou Supermarket, Ypsonas
+    - role: Software Developer
+      time: June 2021 - until now
+
+      company: Amdocs
       details: |
-           I kept the products of the store sorted and clean.
+           Design, Develop, Test & Support on production.
+
+    - role: Software Developer
+      time: December 2020 - May 2021
+      company: Logisoft
+      details: |
+           Enhance software & Support the clients.
 #          - Bullet point
  #         - Bullet point
-    - role: Οffice and Ιnventory Μanager
-      time: Summer 2019
-      company: Esso, Episkopi
+    - role: IT
+      time: Summer 2020 - December 2020
+      company: City of Dreams - Limassol Casino
       details: |
-        The Esso Episkopi is a gas station. I was responsible for fuel payments and for product inventory for the store.
+            Install and test hardware.
       #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
        # Cum sociis natoque penatibus et magnis dis parturient montes,
         #nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -155,19 +156,15 @@ experiences:
 
         #  - Bullet point
          # - Bullet point
-    - role: Ventilation installations
-      time: Summer 2020 until January 2021 
+    #- role: Papantoniou Super market
+    #  time: Summer 2020 until January 2021 
 
-      company: Avax & Terna - Casino City of Dreams
-      details: |
-           In the construction of the Casino in Limassol we install ventilation and air condition systems.
+    #  company: City of Dreams - Limassol Casino
+    #  details: |
+           #In the construction of the Casino in Limassol we install ventilation and air condition systems.
 
-    - role: Technical Support
-      time: March - April 2021
-
-      company: LogiSoft
-      details: |
-           Responsible for assisting users on the time attendance application.
+    #- role: Technical Support
+    #  time: March - April 2021
 
     
 projects:
