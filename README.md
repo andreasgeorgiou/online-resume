@@ -24,4 +24,6 @@
 
 ## License
 
+run the project local ---> $jekyll serve 
+
 This project is licensed under the [MIT license](LICENSE.txt).
