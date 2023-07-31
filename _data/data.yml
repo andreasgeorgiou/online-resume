@@ -62,11 +62,10 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-     Hi, my name is Andreas. I am graduate of the IT department of the Ionian University. I am looking for an IT position 
-     where I will use my technical skills. I have developed basic skills in many programming
-     languages that I learn in my semester and also by myself in my spare time. 
-     Another key point that I want to mention is that I am hardworking and try very much to get the best result.
-     I am very honest and I can work in a team. 
+     Hi, my name is Andreas, and my passion is designing and developing smarts and usefuls softwares. 
+     My creative mindset and my developing knowledge can help your company grow and achieve new milestones. 
+     A key point that I want to mention is that I'm hardworking and try very much to get the best result.
+     I'm very honest and I can work in a team. 
 
         - Hardworking
         - Perfectionist
@@ -85,7 +84,7 @@ education:
         - C & C++
         - Java and Javascript
         - Python
-        - HTML & CSS
+        - HTML5 & CSS
         - PHP
         - SQL
 
@@ -166,50 +165,80 @@ experiences:
     #- role: Technical Support
     #  time: March - April 2021
 
-    
-projects:
-    title: Seminars and my projects
+certificates:
+    title: Certificates
     intro: >
-      Below are some seminars and some projects that i implemented.  I attached their links.
+      Below are some certifications I have obtained. Click on them for more.
+
+    assignments:
+
+      - title: Python
+        link: "assets/certificates/certificate-Python.pdf"
+        tagline: seminar
+
+      - title: Grow Greek Tourism Online
+        link: "assets/certificates/growgreek.pdf"
+        tagline: seminar  
+
+      - title: Certified Professional - DevOps Foundation
+        link: "assets/certificates/certificate-DevOps.pdf"
+        tagline: seminar  
+
+      - title: Business Conduct Educational Process I
+        link: "assets/certificates/CertificateOfCompletion.pdf"
+        tagline: seminar
+
+      - title: Business Conduct Educational Process II
+        link: "assets/certificates/CertificateOfCompletion2.pdf"
+        tagline: seminar        
+
+projects:
+    title: my projects
+    intro: >
+      Below are some projects that I implemented. Click on them for more.
 
     assignments:
     
-      - title: Grow Greek Tourism Online
-        link: "assets/certificates/growgreek.pdf"
-        tagline: seminar
+      - title-with-url: Online Booking System - Web app
+        url: "https://boostersbarbershop.com/"
+        tagline: project
 
-      - title: Web Application
+      - title: Smart cleaning - Web App
         link: "assets/certificates/WebApplication.pdf"
         tagline: project
 
-      - title: Android App
+      - title: Add Appointment & Notify your client - Android App
         link: "assets/certificates/AndroidApplication.pdf"
         tagline: project
 
-      #- title: Delta
-       # link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 skills:
    title: Skills &amp; Proficiency
 
    toolset:
      - name: Linux 
-       level: 85%
+       level: 95%
 
      - name: Python
-       level: 80%
+       level: 96%
+
+     - name: Java &amp; Javascript
+       level: 95%
+
+     - name: SQL
+       level: 95%
 
      - name: HTML & CSS
-       level: 75%
+       level: 85%
 
-     - name: Javascript
-       level: 75%
+     - name: C#
+       level: 90%
 
      - name: C &amp; C++
-       level: 70%
+       level: 80%
        
      - name: PHP
-       level: 60%
+       level: 85%
 
 ---
