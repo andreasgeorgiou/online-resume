@@ -50,6 +50,10 @@ sidebar:
        # level: Professional
 
     interests:
+
+      - item: Programming
+        link:
+
       - item: Fitness
         link:
 
@@ -58,19 +62,16 @@ sidebar:
 
       - item: Football
         link:
-
-      - item: Programming
-        link:
          
 career-profile:
     title: ABOUT ME
     summary: |
      Hi, my name is Andreas, and my passion is designing and developing smart and useful software. 
      My creative mindset and my developing knowledge can help your company grow and achieve new milestones. 
-     A key point that I want to mention is that I'm hardworking and try very much to get the best result.
-     I'm very honest and I can work in a team. 
+     A key point that I want to mention is that I'm working hard until I get the best result.
+     I'm very honest, and I can work as aprt of a team. 
 
-        - Hardworking
+        - Fast Learner
         - Perfectionist
         - With willingness to learn
 education:
@@ -78,7 +79,7 @@ education:
       university: Ionian University
       time: 2016 - 2020 
       details: |
-        I completed my studies at Ionian University in 2020 with a grade of **7.8/10**.During my studies I learned to solve problems 
+        I completed my studies at Ionian University in **2020**.During my studies I learned to solve problems 
         and to withstand all the pressures I encountered.
 
         The University has provided me with the opportunity to develop multiple basic programming skills in:
@@ -106,8 +107,7 @@ education:
       university: Lyceum of Kolossi
       time: 2011 - 2014 
       details: |
-        I graduated from the Kolossi high school with a grade of 
-        **17/20.**
+        I graduated from Kolossi high school in 2014.
 
         Enhanced courses:
 

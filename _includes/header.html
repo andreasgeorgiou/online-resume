@@ -50,17 +50,18 @@
                               });
                         });
                   
-                        // Toggle the menu when the checkbox is checked or unchecked
+                                          // Toggle the menu when the checkbox is checked or unchecked
                         document.getElementById('nav').addEventListener('change', function() {
-                              if (this.checked) {
-                                    // Menu is open
-                                    navWrapper.style.opacity = 1;
-                              } else {
-                                    // Menu is closed
-                                    navWrapper.style.opacity = 0;
-                                    navWrapper.style.zIndex = -1;
-                              }
-                              });
+                        if (this.checked) {
+                              // Menu is open
+                              navWrapper.style.opacity = 1;
+                              navWrapper.style.zIndex = 9990;
+                        } else {
+                              // Menu is closed
+                              navWrapper.style.opacity = 0;
+                              navWrapper.style.zIndex = -1;
+                        }
+                        });
                   }
             });
           </script>

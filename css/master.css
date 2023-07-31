@@ -197,11 +197,11 @@ nav ul li a {
       transform: translateX(0);
       
 }  
-#nav-wrapper ul li a:checked + .nav-wrapper {
+/* #nav-wrapper ul li a:checked + .nav-wrapper {
       z-index: 9990;
       opacity: 1;
 
-}
+} */
 /* .hidden {
       display: none;
 } */
