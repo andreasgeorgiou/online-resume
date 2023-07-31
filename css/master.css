@@ -170,10 +170,10 @@ nav ul li a {
       transform: rotate(45deg);
 }
 
-#nav:checked + .nav-btn i {
+/* #nav:checked + .nav-btn i {
       background: #000;
       transition: transform 0.2s ease;
-}
+} */
 
 #nav:checked + .nav-btn i:nth-child(1) {
       transform: translateY(6px) rotate(180deg);
@@ -185,18 +185,23 @@ nav ul li a {
 
 #nav:checked + .nav-btn i:nth-child(3) {
       transform: translateY(-6px) rotate(90deg);
-}
+} 
 
 #nav:checked ~ .nav-wrapper {
       z-index: 9990;
       opacity: 1;
-}
+}     
 
 #nav:checked ~ .nav-wrapper ul li a {
       opacity: 1;
       transform: translateX(0);
-}
+      
+}  
+#nav-wrapper ul li a:checked + .nav-wrapper {
+      z-index: 9990;
+      opacity: 1;
 
-.hidden {
-      display: none;
 }
+/* .hidden {
+      display: none;
+} */
