@@ -50,13 +50,16 @@ sidebar:
        # level: Professional
 
     interests:
-      - item: Gym
+      - item: Fitness
         link:
 
       - item: Gaming
         link:
 
       - item: Football
+        link:
+
+      - item: Programming
         link:
          
 career-profile:
