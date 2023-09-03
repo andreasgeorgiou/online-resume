@@ -202,8 +202,8 @@ projects:
 
     assignments:
     
-      - title-with-url: Online Booking System - Web app
-        url: "https://boostersbarbershop.com/"
+      - title-with-url: Online Booking System - Demo
+        url: "https://dev-online-booking-demo.pantheonsite.io/"
         tagline: project
 
       - title: Smart cleaning - Web App
