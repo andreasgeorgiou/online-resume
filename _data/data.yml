@@ -27,7 +27,7 @@ sidebar:
 
     #website: andreasgeorgiou #do not add http://
 
-    # linkedin: alandoe
+    linkedin: andreas-georgiou-a4a112252
     github: andreasgeorgiou
     gitlab:
     bitbucket:
@@ -44,7 +44,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Very Good 
+        level: Advanced 
 
       #- idiom: Spanish
        # level: Professional
@@ -57,10 +57,10 @@ sidebar:
       - item: Fitness
         link:
 
-      - item: Gaming
+      - item: Netflix & Music
         link:
 
-      - item: Football
+      - item: 
         link:
          
 career-profile:
@@ -68,7 +68,7 @@ career-profile:
     summary: |
      Hello, I'm Andreas, a passionate software developer. With a creative mindset and with my developing skills , 
      I'm dedicated to contributing to your company's success. I'm committed to delivering optimal results, working collaboratively, 
-     and bringing a blend of creativity and technical proficiency to every project. I can be a valuable asset to your team and help achieve new milestones 
+     and bringing a blend of creativity and technical proficiency to every project. I can be a valuable asset to your team and help achieve new milestones.
 
         - Fast Learner
         - Perfectionist
@@ -84,14 +84,14 @@ education:
         The University has provided me with the opportunity to develop multiple basic programming skills in:
 
         - Unix Commands
-        - C & C++
+        - C# and C++
         - Java and Javascript
         - Python
-        - HTML5 & CSS
+        - HTML5 and CSS
         - PHP
         - SQL
 
-    - degree: Army Service
+    - degree: Army National Guard
       university: Cyprus Special Forces
       time: 2014 - 2016 
       details: |
@@ -102,18 +102,18 @@ education:
         - Training in weapons
         - Mental endurance            
 
-    - degree: Higher Secondary Education
-      university: Lyceum of Kolossi
-      time: 2011 - 2014 
-      details: |
-        I graduated from Kolossi high school in **2014**.
+    # - degree: Higher Secondary Education
+    #   university: Lyceum of Kolossi
+    #   time: 2011 - 2014 
+    #   details: |
+    #     I graduated from Kolossi high school in **2014**.
 
-        Enhanced courses:
+    #     Enhanced courses:
 
-        - Mathematics
-        - Physics
-        - Computer Science
-        - Gymnastics
+    #     - Mathematics
+    #     - Physics
+    #     - Computer Science
+    #     - Gymnastics
         
    
 
@@ -219,27 +219,21 @@ skills:
    title: Skills &amp; Proficiency
 
    toolset:
-     - name: Linux 
+     - name: Django (Python) 
+       level: 99%
+
+     - name: ASP.NET (C#)
+       level: 99%
+
+     - name: IntelliJ IDEA (Java)
        level: 95%
 
-     - name: Python
-       level: 96%
-
-     - name: Java &amp; Javascript
+     - name: Frontend (HTML & Javascript & CSS) 
        level: 95%
 
-     - name: SQL
-       level: 95%
+     - name: Database - SQL Developer
+       level: 99%
 
-     - name: HTML & CSS
-       level: 85%
-
-     - name: C#
-       level: 90%
-
-     - name: C &amp; C++
-       level: 80%
-       
      - name: PHP
        level: 85%
 
