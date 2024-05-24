@@ -66,13 +66,50 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-     Hello, I'm Andreas, a passionate software developer. With a creative mindset and with my developing skills , 
+     Hello, I'm Andreas, a passionate software developer. With a creative mindset and with my developing skills, 
      I'm dedicated to contributing to your company's success. I'm committed to delivering optimal results, working collaboratively, 
      and bringing a blend of creativity and technical proficiency to every project. I can be a valuable asset to your team and help achieve new milestones.
 
         - Fast Learner
         - Perfectionist
         - With willingness to learn
+experiences:
+    - role: Software Developer
+      time: June 2021 - present
+
+      company: Amdocs
+      details: |
+           Design, Develop, Test and Support on production.
+
+    - role: Software Developer
+      time: December 2020 - May 2021
+      company: Logisoft
+      details: |
+           Enhance software & Support the clients.
+#          - Bullet point
+ #         - Bullet point
+    - role: IT
+      time: Summer 2020 - December 2020
+      company: City of Dreams - Limassol Casino
+      details: |
+            Install and test hardware.
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem.
+
+        #  - Bullet point
+         # - Bullet point
+    #- role: Papantoniou Super market
+    #  time: Summer 2020 until January 2021 
+
+    #  company: City of Dreams - Limassol Casino
+    #  details: |
+           #In the construction of the Casino in Limassol we install ventilation and air condition systems.
+
+    #- role: Technical Support
+    #  time: March - April 2021
+
 education:
     - degree: BSc in Computer Science
       university: Ionian University
@@ -130,42 +167,6 @@ education:
         #  - Bullet point
          # - Bullet point
 
-experiences:
-    - role: Software Developer
-      time: June 2021 - present
-
-      company: Amdocs
-      details: |
-           Design, Develop, Test & Support on production.
-
-    - role: Software Developer
-      time: December 2020 - May 2021
-      company: Logisoft
-      details: |
-           Enhance software & Support the clients.
-#          - Bullet point
- #         - Bullet point
-    - role: IT
-      time: Summer 2020 - December 2020
-      company: City of Dreams - Limassol Casino
-      details: |
-            Install and test hardware.
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       # Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       # pellentesque eu, pretium quis, sem.
-
-        #  - Bullet point
-         # - Bullet point
-    #- role: Papantoniou Super market
-    #  time: Summer 2020 until January 2021 
-
-    #  company: City of Dreams - Limassol Casino
-    #  details: |
-           #In the construction of the Casino in Limassol we install ventilation and air condition systems.
-
-    #- role: Technical Support
-    #  time: March - April 2021
 
 certificates:
     title: Certificates
@@ -174,24 +175,16 @@ certificates:
 
     assignments:
 
+      - title: Certified Professional - DevOps Foundation
+        link: "assets/certificates/certificate-DevOps.pdf"
+        tagline: seminar 
+
       - title: Python
         link: "assets/certificates/certificate-Python.pdf"
         tagline: seminar
 
       - title: Grow Greek Tourism Online
         link: "assets/certificates/growgreek.pdf"
-        tagline: seminar  
-
-      - title: Certified Professional - DevOps Foundation
-        link: "assets/certificates/certificate-DevOps.pdf"
-        tagline: seminar  
-
-      - title: Business Conduct Educational Process I
-        link: "assets/certificates/CertificateOfCompletion.pdf"
-        tagline: seminar
-
-      - title: Business Conduct Educational Process II
-        link: "assets/certificates/CertificateOfCompletion2.pdf"
         tagline: seminar        
 
 projects:
@@ -203,15 +196,15 @@ projects:
     
       - title-with-url: Online Booking System - Demo
         url: "https://dev-online-booking-demo.pantheonsite.io/"
-        tagline: project
+        tagline: Wordpress, PHP, MySQL 
 
       - title: Smart cleaning - Web App
         link: "assets/certificates/WebApplication.pdf"
-        tagline: project
+        tagline: Django, Python, MySQL, HTML, JavaScript, CSS
 
       - title: Add Appointment & Notify your client - Android App
         link: "assets/certificates/AndroidApplication.pdf"
-        tagline: project
+        tagline: Android Studio, Java Services, SQLite
 
 
 
@@ -219,20 +212,20 @@ skills:
    title: Skills &amp; Proficiency
 
    toolset:
-     - name: Django (Python) 
+     - name: Spring Framewrok (Java) 
        level: 99%
 
-     - name: ASP.NET (C#)
+     - name: Django Framewrok (Python)
        level: 99%
-
-     - name: IntelliJ IDEA (Java)
-       level: 95%
 
      - name: Frontend (HTML & Javascript & CSS) 
        level: 95%
 
      - name: Database - SQL Developer
        level: 99%
+     
+     - name: Linux Commands
+       level: 90%
 
      - name: PHP
        level: 85%
