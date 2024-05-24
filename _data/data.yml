@@ -196,7 +196,7 @@ projects:
     
       - title-with-url: Online Booking System - Demo
         url: "https://dev-online-booking-demo.pantheonsite.io/"
-        tagline: Wordpress, PHP, MySQL 
+        tagline: Wordpress, PHP, MySQL, SMS GATEWAY 
 
       - title: Smart cleaning - Web App
         link: "assets/certificates/WebApplication.pdf"
